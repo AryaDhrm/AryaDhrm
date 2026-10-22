@@ -1,4 +1,4 @@
-![Header Animasi](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Selamat%20Datang&fontSize=90&animation=twinkling)
+![Header Profil](https://capsule-render.vercel.app/api?type=rect&color=660000&height=150&text=Hi,%20I'm%20Putu%20Arya&fontColor=facc15&fontSize=45&desc=An%20AI%20and%20Data%20Analytics%20Enthusiast&descSize=20&descAlignY=75&descAlign=50)
 ## Halo, Perkenalkan saya Putu Arya Dharma Kesuma
 Freshgraduate dari universitas Udayana angkatan 22, program studi Informatika.
 Saya terbiasa menelusuri sebuah permasalahan dan memikirkan solusi yang dapat menyelesaikan akar permasalahan tersebut.
