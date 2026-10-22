@@ -21,7 +21,8 @@ Saya terbiasa menelusuri sebuah permasalahan dan memikirkan solusi yang dapat me
 - **2 tipe monster dengan effect berbeda** agar resiko pada player bervariasi : 
   - Baracuda : Memberikan damage sebesar 10.
   - Ubur-ubur : User terkena stun dan terkena damage 10.
--**Boss Siren dengan 3 fase**
+  
+- **Boss Siren dengan 3 fase**
   - Fase 1: summon monster secara horizontal dari arah Siren; hilang saat mengenai tembok.
   - Fase 2: sama seperti fase 1, ditambah Siren bisa menembak pemain.
   - Fase 3: monster kembali ke arah Siren setelah mengenai tembok, sehingga pemain harus menghindar dua kali.
