@@ -53,7 +53,3 @@ nyaman dengan materi yang sudah dikuasainya.
 * Spreadsheet
 * Word
 * Google Docs
-
-
-
-bagaimana
