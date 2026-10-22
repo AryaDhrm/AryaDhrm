@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=660000&height=90&text=Arya%20Dharma&fontColor=facc15&fontSize=45" alt="Arya Dharma" />
-  <h3>Fresh Graduate dengan Keinginan Belajar tinggi</h3>
-</div>
+![Header Profil](https://capsule-render.vercel.app/api?type=rect&color=660000&height=150&text=Halo,%20Saya%20Arya%20Dharma&fontColor=facc15&fontSize=40&desc=Fresh%20Graduate%20dari%20Universitas%20Udayana&descSize=20&descAlignY=75&descAlign=50)
 
-## Halo, Perkenalkan saya Putu Arya Dharma Kesuma
 Freshgraduate dari universitas Udayana angkatan 22, program studi Informatika.
 Saya terbiasa menelusuri sebuah permasalahan dan memikirkan solusi yang dapat menyelesaikan akar permasalahan tersebut.
 
